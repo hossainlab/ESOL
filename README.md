@@ -11,6 +11,20 @@ Delaney, John S. (2004).
 ESOL: estimating aqueous solubility directly from molecular structure.
 Journal of chemical information and computer sciences.
 
+<a id="1">[2]</a>
+Chanin Nantasenamat.
+How to Use Machine Learning for Drug Discovery.
+https://towardsdatascience.com/how-to-use-machine-learning-for-drug-discovery-1ccb5fdf81ad
+
+<a id="1">[3]</a>
+Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More 1st Edition.
+
+<a id="1">[4]</a>
+Pat Walters.
+Predicting Aqueous Solubility - It's Harder Than It Looks.
+http://practicalcheminformatics.blogspot.com/2018/09/predicting-aqueous-solubility-its.html
+
+
 
 ## Citation
 If you want to do same kind of projects, please cite **Delaney's** paper.
