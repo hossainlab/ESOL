@@ -5,10 +5,12 @@
 <a id="1">[1]</a>
 Delaney, John S. (2004).
 ESOL: estimating aqueous solubility directly from molecular structure.
-Journal of chemical information and computer sciences
+Journal of chemical information and computer sciences.
 
 
 ## Citation
+If you want to do same kind of projects, please cite **Delaney's** paper.
+```latex
 @article{delaney2004esol,
   title={ESOL: estimating aqueous solubility directly from molecular structure},
   author={Delaney, John S},
@@ -19,3 +21,4 @@ Journal of chemical information and computer sciences
   year={2004},
   publisher={ACS Publications}
 }
+```
